@@ -16,7 +16,7 @@ Test Scenerios:-
 
 Testing used:- Functional testing, Responsive testing, Gui testing, Positive testing and Negative testing.
 
-Bug report:- There are six bugs which are created in issues(https://github.com/itsaman2025/Manual-Testing-Project-1/issues)
+Bug report:- There are three bugs which are created in issues(https://github.com/itsaman2025/Manual-Testing-Project-1/issues)
 
 
 
